@@ -11,8 +11,11 @@ name = "Vicky"
 age = 38
 height = 5.6
 student = True
-print("my name is",name,/n"my age is",age,"my height is",height,"I am a student",student,sep=",")
+print("my name is",name,"\nmy age is",age,"my height is",height,"I am a student",student,sep=",")
 
+# program 3
+#print("Hello", "World") -- Hello World
+#print("Hello", "World", sep="-") --- Hello-World
 
 
 
