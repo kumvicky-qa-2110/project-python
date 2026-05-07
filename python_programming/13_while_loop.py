@@ -1,8 +1,10 @@
-i = 1
-while i<6:
+i = 2
+while i<21:
     print(i)
-    i = i + 1
+    i = i + 2
 print("-----------")
+
+
 
 
 
