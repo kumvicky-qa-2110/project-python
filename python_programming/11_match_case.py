@@ -12,6 +12,26 @@ match a:
     case _:
         print("sorry next time")
 
+
+print("end of program one ")
+
+b = int(input("enteryour api response code:"))
+
+match b:
+    case 200:
+        print("passed")
+    case 400:
+        print("bad request")
+    case 500:
+        print("internal server error")
+    case _:
+        print("unknown error")
+
+
+print ("end of program two")
+
+
+
         
             
 
